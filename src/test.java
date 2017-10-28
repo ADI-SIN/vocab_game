@@ -22,8 +22,8 @@ public class test extends JFrame {
 	
 	
 	
-	private static String[] word_array= {"bright","deep","accept","abundant","victory","bless","bold","hope","giant","guest"};
-	private static String[] syn_array= {"dull","shallow","refuse","scarce","defeat","curse","timid","despair","dwarf","host"};
+	private static String[] word_array= {"bright","deep","accept","abundant","victory","bless","bold","hope","giant","guest","love","up"};
+	private static String[] syn_array= {"dull","shallow","refuse","scarce","defeat","curse","timid","despair","dwarf","host","hate","down"};
 	String word1= word_array[z];
 	String the_answer= syn_array[z];
 	
